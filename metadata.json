@@ -1,0 +1,5 @@
+{
+  "name": "MERN SEO Blog",
+  "description": "A full-stack style blog application with SEO capabilities, featuring post management, friendly URLs, and dynamic meta tags.",
+  "requestFramePermissions": []
+}
